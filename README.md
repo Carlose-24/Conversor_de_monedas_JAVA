@@ -22,35 +22,37 @@ o Salir del programa.
 1. Iniciar el Programa **Clase Principal**:
    
    
-![image](https://github.com/user-attachments/assets/282ae5f6-e434-48a9-acd1-b5a621d04c3c)
+![image](https://github.com/user-attachments/assets/51651864-0667-423b-aa10-9dd48314ef2e)
+
+
 
 2. Ingresar Divisa Principal Por ejemplo, USD (Dolar):
    
-![image](https://github.com/user-attachments/assets/37856adc-a7c7-482a-9c08-df9af4b24b15)
+![image](https://github.com/user-attachments/assets/af45a72e-57da-4d77-a4bd-01f1cf8f0e1d)
 
 3. Seleccionar Opción 1 para saber el valor de la moneda principal con respecto a otras monedas:
  
-![image](https://github.com/user-attachments/assets/cf9417b8-37c9-49c3-b715-9fd1b10d9b3d)
+![image](https://github.com/user-attachments/assets/e1a978c4-ae65-4e98-917d-81408b5900bc)
 
 4. Ver Tipo de Cambio:
 
-![image](https://github.com/user-attachments/assets/dd394fc3-099b-4cb1-b5f2-5b260f713f06)
+![image](https://github.com/user-attachments/assets/3828e5f1-7515-4e89-b9bd-ed6b50d709d3)
 
 5. Seleccionar Opción 2 para convertir una cantidad especifica a otra moneda.
 
-![image](https://github.com/user-attachments/assets/0e8d9892-2d19-423f-9735-ee89aad42077)
+![image](https://github.com/user-attachments/assets/3f480fda-89de-421f-933f-7c03850959d7)
 
 6. Introduce las siglas de la moneda a la que deseas realizar la conversión. Por ejemplo, si deseas convertir a COP (Peso colombiano):
 
-![image](https://github.com/user-attachments/assets/887e339b-7b0f-4f33-824e-c600a349215e)
+![image](https://github.com/user-attachments/assets/db8cd2b6-6274-4db3-8d32-8f69ea010e54)
 
 7. Introduce la cantidad de tu moneda principal que deseas convertir. Por ejemplo, si tienes 100 USD (Dolar) para convertir a COP(Peso colombiano):
 
-![image](https://github.com/user-attachments/assets/d9d00d70-be74-405a-8d8b-4e0848eae808)
+![image](https://github.com/user-attachments/assets/869ae6ec-7a42-4c4c-b766-3d02c9fed0f2)
 
 8. El programa te mostrará el resultado de la conversión:
 
-![image](https://github.com/user-attachments/assets/83b6a6f3-b6c0-487a-95f4-bdbb6c73a499)
+![image](https://github.com/user-attachments/assets/0b0ffd11-104f-40d6-8fb7-8bba200d61e3)
 
 ## Registrar Historial:
 Cada vez que realices una consulta de conversión, el programa almacenará la operación en un archivo de texto llamado Historial_de_Consultas_Realizadas.txt. El historial incluirá la fecha y hora de la consulta, la divisa principal, la divisa de cambio, la cantidad convertida y el resultado de la conversión.
