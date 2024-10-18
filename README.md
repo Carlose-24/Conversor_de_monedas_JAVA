@@ -59,7 +59,8 @@ Cada vez que realices una consulta de conversión, el programa almacenará la op
 
 Ejemplo de entrada en el archivo de historial:
 
-![image](https://github.com/user-attachments/assets/2cc7e955-ff0a-418b-8a35-f7e065fb45b7)
+![image](https://github.com/user-attachments/assets/a9db8f55-8ff9-4b9d-9ae0-62198d84a589)
+
 
 
 
