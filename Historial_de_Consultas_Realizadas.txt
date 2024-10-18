@@ -1,0 +1,3 @@
+2024-10-18 13:08:54 - Consulta: USD a COP - Cantidad: 1,00 - Resultado: 4249,56
+2024-10-18 17:59:19 - Consulta: USD a COP - Cantidad: 15000,00 - Resultado: 63743380,50
+2024-10-18 18:12:28 - Consulta: COP a USD - Cantidad: 1600000,00 - Resultado: 376,51
