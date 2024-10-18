@@ -7,29 +7,29 @@ Este proyecto es un Conversor de Divisas en Java que permite a los usuarios conv
 * Validación de monedas.
 * Conversión entre diferentes divisas.
 * Registro del historial de consultas en un archivo de texto.
-  Requisitos
+Requisitos
 * Java 11 o superior.
 * Conexión a Internet para acceder a la API de tasas de cambio.
-  Modo de Uso
+Modo de Uso
 1. Al iniciar el programa, verás un mensaje de bienvenida y una breve explicación sobre cómo utilizar el conversor.
 2. Se te pedirá que ingreses la sigla de tu divisa principal (ej. USD, EUR, COP).
 3. Elige una opción del menú:
-   o Ver el tipo de cambio actual.
-   o Convertir una cantidad específica.
-   o Cambiar tu divisa principal.
-   o Salir del programa.
+o Ver el tipo de cambio actual.
+o Convertir una cantidad específica.
+o Cambiar tu divisa principal.
+o Salir del programa.
 ## Ejemplo de Uso
 1. Iniciar el Programa **Clase Principal**:
-
-
+   
+   
 ![image](https://github.com/user-attachments/assets/282ae5f6-e434-48a9-acd1-b5a621d04c3c)
 
 2. Ingresar Divisa Principal Por ejemplo, USD (Dolar):
-
+   
 ![image](https://github.com/user-attachments/assets/37856adc-a7c7-482a-9c08-df9af4b24b15)
 
 3. Seleccionar Opción 1 para saber el valor de la moneda principal con respecto a otras monedas:
-
+ 
 ![image](https://github.com/user-attachments/assets/cf9417b8-37c9-49c3-b715-9fd1b10d9b3d)
 
 4. Ver Tipo de Cambio:
@@ -74,8 +74,8 @@ El programa está diseñado para manejar los errores más comunes que los usuari
 ![Errores comunes](https://github.com/user-attachments/assets/dbd21365-a097-49c2-ab75-47125fd5da81)
 ## Author
 
-- Carlos Lopez
-- Linkedin: https://www.linkedin.com/in/carlos-eduardo-lopez-sandoval-8b9218141/
+- Carlos Lopez 
+- Linkedin: https://www.linkedin.com/in/carlos-eduardo-lopez-sandoval-8b9218141/ 
 
 
 ## Related
